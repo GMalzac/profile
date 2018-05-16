@@ -1,0 +1,53 @@
+.footer {
+  background: #363636;
+  display: block;
+  align-items: center;
+  justify-content: center;
+  height: 250px;
+  padding: 0px 20px;
+  color: #363636;
+
+}
+.footer-links {
+  padding-top: 55px;
+  display: block;
+  align-items: center;
+  padding-bottom: 5px;
+}
+.footer-links a {
+  color: white;
+  opacity: 0.4;
+  text-decoration: none;
+  font-size: 24px;
+  padding: 0px 10px;
+}
+
+.footer-links a:hover {
+  color: #e43c52;
+  opacity: 1;
+}
+
+.footer-logo {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.myfooter {
+  color: #BCBABA;
+}
+
+.copyright-size {
+  padding-top: 5px;
+  font-size: 16px;
+  color: white;
+}
+
+.heart {
+  color: #e43c52
+}
+
+.credit a{
+  text-decoration: none;
+  color: gray;
+  font-size: 12px;
+}

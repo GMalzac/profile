@@ -1,0 +1,59 @@
+// Specific CSS for your home-page
+.learnlink {
+  color: white;
+}
+.learnlink:hover {
+  color: #e43c52;
+}
+
+.interested-div {
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+body {
+  position: relative;
+}
+
+h2 {
+  padding-top: 20px;
+  padding-bottom: 40px;
+  font-weight: 700;
+}
+
+h3 {
+  padding-top: 20px;
+  padding-bottom: 40px;
+  font-weight: 700;
+}
+
+h4 {
+  margin-top: 0px;
+  font-weight: 600;
+  color: #e43c52;
+  a {
+  text-decoration: none;
+  color: #e43c52;
+  }
+  a:hover {
+  text-decoration: none;
+  color: gray;
+  }
+}
+
+p {
+
+}
+
+.white-background {
+  background-color: white;
+}
+
+.project-image {
+  margin-bottom: 40px;
+  display: flex;
+}
+
+#contact {
+  padding-bottom: 80px;
+}
